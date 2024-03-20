@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: util/Auth.js
+  checksum: 5e0f8c28c9cda471604c4fd438791e577a80fe498e79768a1a13b643e0be69d6
+- filename: package-lock.json
+  checksum: ea098cd9556a4e5bd979804e0bb172b6113bea4f711dbea06e4a47561a6b11a8
+- filename: components/Auth/Input.js
+  checksum: 1e2d58005b989dc12ef6883b67f25b4b0f6bbe80a4efa5410fb6c225d2a9de46
+- filename: components/Auth/AuthForm.js
+  checksum: ae0d77c16093317aa77a01062b726f2f0fdc402934a3bbfe5418c3f9f3b4e83f
+- filename: components/Auth/AuthContent.js
+  checksum: b1d17b9ce70a0ba5562f5270776d5adf736c40343029ed8e845e8bf107ed95a2
+version: ""
